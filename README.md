@@ -13,7 +13,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanetan&show_icons=true&locale=en&layout=compact&theme=dark" /></p>
 
 
-### 🚀 Projects
+### Projects
 * [Vanilla JS Login](https://emmanetan.github.io/Vanilla-JS-Login/) - A secure and responsive login interface built with pure JavaScript.
 * [MCalculator](https://emmanetan.github.io/MCalculator/) - A sleek web-based calculator for quick mathematical operations.
 
