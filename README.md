@@ -13,9 +13,9 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanetan&show_icons=true&locale=en&layout=compact&theme=dark" /></p>
 
 
-<p>Projects: https://emmanetan.github.io/Vanilla-JS-Login/</p>
-<p>https://emmanetan.github.io/Vanilla-JS-Login/</p>
-
+### 🚀 Projects
+* [Vanilla JS Login](https://emmanetan.github.io/Vanilla-JS-Login/) - A secure and responsive login interface built with pure JavaScript.
+* [MCalculator](https://emmanetan.github.io/MCalculator/) - A sleek web-based calculator for quick mathematical operations.
 
 <!---
 emmanetan/emmanetan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
