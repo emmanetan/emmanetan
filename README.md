@@ -13,7 +13,9 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanetan&show_icons=true&locale=en&layout=compact&theme=dark" /></p>
 
 
-<p>Projects: </p>
+<p>Projects: https://emmanetan.github.io/Vanilla-JS-Login/</p>
+<p>https://emmanetan.github.io/Vanilla-JS-Login/</p>
+
 
 <!---
 emmanetan/emmanetan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
