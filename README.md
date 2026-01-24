@@ -14,7 +14,7 @@
 
 
 ### Projects
-* [Vanilla JS Login](https://emmanetan.github.io/Vanilla-JS-Login/) - A secure and responsive login interface built with pure JavaScript.
+* [Vanilla JS Login](https://emmanetan.github.io/Vanilla-JS-Login/) - Responsive login interface built with pure HTML, CSS & JavaScript.
 * [MCalculator](https://emmanetan.github.io/MCalculator/) - A sleek web-based calculator for quick mathematical operations.
 
 <!---
