@@ -36,7 +36,7 @@
 
 ### Projects
 * [Vanilla JS Login](https://emmanetan.github.io/Vanilla-JS-Login/) - Responsive login interface built with pure HTML, CSS & JavaScript.
-* [MCalculator](https://emmanetan.github.io/MCalculator/) - A sleek web-based calculator for quick mathematical operations.
+* [MCalculator](https://emmanetan.github.io/MCalculator/) - Basic web-based calculator for mathematical operations.
 
 <!---
 emmanetan/emmanetan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
