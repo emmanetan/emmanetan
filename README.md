@@ -30,9 +30,6 @@
   </a>
 </p>
 
-<!---<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=emmanetan&show_icons=true&theme=dark" alt="emmanetan" /></p>--->
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanetan&show_icons=true&locale=en&layout=compact&theme=dark" /></p>
-
 
 ### Projects
 * [Vanilla JS Login](https://emmanetan.github.io/Vanilla-JS-Login/) - Responsive login interface built with pure HTML, CSS & JavaScript.
